@@ -6,8 +6,8 @@
    npm init -y
 ```
 ```
-   npm install express nodemon cors
-  ```
+npm install express nodemon cors
+```
 ### 3. you are all set to start the server now !
   #### in your terminal , run the following command
    ```
