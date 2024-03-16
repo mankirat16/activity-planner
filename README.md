@@ -11,4 +11,7 @@
    ```
    nodemon server
    ```
+### 4. navigate to index.html file , open it in your live server.
+
+### Plan your day ahead !
      
