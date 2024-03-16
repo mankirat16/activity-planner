@@ -4,6 +4,8 @@
 ### 2.run the following npm commands to install the necessary dependencies and modules
    ```
    npm init -y
+```
+```
    npm install express nodemon cors
   ```
 ### 3. you are all set to start the server now !
