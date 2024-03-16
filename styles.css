@@ -1,0 +1,48 @@
+button {
+    border: 2px solid rgb(252, 70, 70);
+    border-radius: 4px;
+    font-size: larger;
+    margin: 6px;
+    color: rgb(97, 0, 0);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(252, 102, 14);
+    color: rgb(255, 255, 255);
+  }
+  body {
+    background-image: url("main-bg-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 7%;
+  }
+  #app {
+    border: 2px solid rgb(255, 94, 94);
+    border-radius: 8px;
+    padding: 15px;
+    background-color: rgb(245, 245, 245);
+  }
+  #task-container {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  #input {
+    border: 2px solid red;
+    border-radius: 4px;
+    font-size: larger;
+  }
+  #input:hover {
+    color: rgb(27, 0, 0);
+  }
+  img {
+    max-width: 40%;
+    max-height: 10%;
+  }
+  
